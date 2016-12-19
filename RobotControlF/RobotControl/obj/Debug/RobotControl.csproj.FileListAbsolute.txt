@@ -1,0 +1,70 @@
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.Form1.resources
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.COMSettingsWindow.resources
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.LogWindow.resources
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.Properties.Resources.resources
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.exe
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\obj\Debug\RobotControl.pdb
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\RobotControl.exe.config
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\RobotControl.exe
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\RobotControl.pdb
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\UnityEditor.dll
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\UnityEngine.dll
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\Mono.Cecil.dll
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\Unity.DataContract.dll
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\Unity.CecilTools.dll
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\UnityEditor.xml
+C:\Users\ANTON\Documents\Visual Studio 2013\Projects\RobotControl\RobotControl\bin\Debug\UnityEngine.xml
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\RobotControl.exe.config
+D:\AntonPC\Учеба\RobotControl\RobotControl\obj\Debug\RobotControl.exe
+D:\AntonPC\Учеба\RobotControl\RobotControl\obj\Debug\RobotControl.pdb
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\RobotControl.exe
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\RobotControl.pdb
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\Mono.Cecil.dll
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\Unity.SerializationLogic.dll
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\Unity.DataContract.dll
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\ICSharpCode.NRefactory.dll
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\Unity.UNetWeaver.dll
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\Unity.CecilTools.dll
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\Mono.Cecil.Pdb.dll
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\Mono.Cecil.Mdb.dll
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\UnityEditor.xml
+D:\AntonPC\Учеба\RobotControl\RobotControl\bin\Debug\UnityEngine.xml
+D:\AntonPC\Учеба\RobotControl\RobotControl\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\AntonPC\Учеба\RobotControl\RobotControl\obj\Debug\RobotControl.Form1.resources
+D:\AntonPC\Учеба\RobotControl\RobotControl\obj\Debug\RobotControl.COMSettingsWindow.resources
+D:\AntonPC\Учеба\RobotControl\RobotControl\obj\Debug\RobotControl.LogWindow.resources
+D:\AntonPC\Учеба\RobotControl\RobotControl\obj\Debug\RobotControl.Properties.Resources.resources
+D:\AntonPC\Учеба\RobotControl\RobotControl\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\RobotControl.exe.config
+D:\Downloads\RobotControl\RobotControl\RobotControl\obj\Debug\RobotControl.exe
+D:\Downloads\RobotControl\RobotControl\RobotControl\obj\Debug\RobotControl.pdb
+D:\Downloads\RobotControl\RobotControl\RobotControl\obj\Debug\RobotControl.csprojResolveAssemblyReference.cache
+D:\Downloads\RobotControl\RobotControl\RobotControl\obj\Debug\RobotControl.Form1.resources
+D:\Downloads\RobotControl\RobotControl\RobotControl\obj\Debug\RobotControl.COMSettingsWindow.resources
+D:\Downloads\RobotControl\RobotControl\RobotControl\obj\Debug\RobotControl.LogWindow.resources
+D:\Downloads\RobotControl\RobotControl\RobotControl\obj\Debug\RobotControl.Properties.Resources.resources
+D:\Downloads\RobotControl\RobotControl\RobotControl\obj\Debug\RobotControl.csproj.GenerateResource.Cache
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\RobotControl.exe
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\RobotControl.pdb
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\UnityEditor.dll
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\UnityEngine.dll
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\Mono.Cecil.dll
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\Unity.SerializationLogic.dll
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\Unity.DataContract.dll
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\Unity.UNetWeaver.dll
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\Unity.CecilTools.dll
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\UnityEditor.xml
+D:\Downloads\RobotControl\RobotControl\RobotControl\bin\Debug\UnityEngine.xml
+D:\Downloads\RobotControlF\RobotControl\bin\Debug\RobotControl.exe.config
+D:\Downloads\RobotControlF\RobotControl\obj\Debug\RobotControl.exe
+D:\Downloads\RobotControlF\RobotControl\obj\Debug\RobotControl.pdb
